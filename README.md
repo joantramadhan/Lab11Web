@@ -62,3 +62,13 @@ Logika program untuk fitur artikel disimpan terpisah di dalam folder `module/art
 
 ## Kesimpulan
 Dengan menerapkan konsep Modular dan Routing, struktur aplikasi menjadi lebih rapi. URL menjadi lebih *user-friendly* dan kode program lebih mudah dikembangkan karena pemisahan yang jelas antara logika, tampilan, dan konfigurasi.
+
+## Update 
+### menambah home + Login 
+<img width="1656" height="897" alt="image" src="https://github.com/user-attachments/assets/37777f50-875a-4ac9-ac78-0801e3d714fa" />
+### User name : operator Password : password
+<img width="1656" height="897" alt="image" src="https://github.com/user-attachments/assets/f0aaa5d5-3b13-41b0-a6a8-2871b84717d2" />
+### Menambah opsi log out + home
+<img width="1656" height="897" alt="image" src="https://github.com/user-attachments/assets/4ba90028-e498-40b1-80b8-46b846256d0a" />
+
+
