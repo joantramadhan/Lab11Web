@@ -70,5 +70,6 @@ Dengan menerapkan konsep Modular dan Routing, struktur aplikasi menjadi lebih ra
 <img width="1656" height="897" alt="image" src="https://github.com/user-attachments/assets/f0aaa5d5-3b13-41b0-a6a8-2871b84717d2" />
 ### Menambah opsi log out + home
 <img width="1656" height="897" alt="image" src="https://github.com/user-attachments/assets/4ba90028-e498-40b1-80b8-46b846256d0a" />
-
+## menambahkan update yang di mana sekarang ada fitur search dan pagination
+<img width="1595" height="704" alt="image" src="https://github.com/user-attachments/assets/4da10064-0871-4df0-a204-7102da602804" />
 
